@@ -1,0 +1,663 @@
+2020-08-30 01:31:54,073 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:31:54,118 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:31:54,118 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:31:54,118 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:31:54,118 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:31:54,118 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:31:54,182 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 4212 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:31:54,182 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:31:54,190 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:31:55,704 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:31:57,472 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:31:57,480 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 3122 ms
+2020-08-30 01:31:57,907 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:32:02,553 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:40:14,495 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:40:14,556 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:40:14,556 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:40:14,556 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:40:14,556 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:40:14,556 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:40:14,628 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 12860 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:40:14,628 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:40:14,636 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:40:16,346 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:40:17,234 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:40:17,234 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2542 ms
+2020-08-30 01:40:17,458 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:40:19,783 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:42:20,385 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:42:20,430 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:42:20,430 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:42:20,430 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:42:20,430 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:42:20,430 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:42:20,502 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 12160 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:42:20,502 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:42:20,502 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:42:22,003 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:42:23,159 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:42:23,159 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2577 ms
+2020-08-30 01:42:23,375 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:42:25,698 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:44:32,257 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:44:32,310 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:44:32,310 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:44:32,310 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:44:32,310 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:44:32,310 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:44:32,398 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 16352 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:44:32,398 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:44:32,406 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:44:34,030 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:44:35,048 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:44:35,056 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2586 ms
+2020-08-30 01:44:35,410 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:44:37,402 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:48:01,604 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:48:01,656 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:48:01,656 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:48:01,656 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:48:01,656 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:48:01,656 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:48:01,748 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 8356 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:48:01,748 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:48:01,748 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:48:03,325 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:48:04,189 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:48:04,189 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2353 ms
+2020-08-30 01:48:04,421 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:48:07,251 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:50:59,348 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:50:59,392 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:50:59,392 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:50:59,392 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:50:59,392 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:50:59,392 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:50:59,472 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 16984 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:50:59,472 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:50:59,472 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:51:00,852 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:51:01,808 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:51:01,808 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2272 ms
+2020-08-30 01:51:02,040 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:51:04,529 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:52:07,741 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:52:07,798 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:52:07,798 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:52:07,798 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:52:07,798 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:52:07,798 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:52:07,877 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 10256 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:52:07,877 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:52:07,877 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:52:09,619 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:52:11,689 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:52:11,689 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 3729 ms
+2020-08-30 01:52:12,001 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:52:14,374 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:54:03,534 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:54:03,579 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:54:03,587 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:54:03,587 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:54:03,587 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:54:03,587 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:54:03,659 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 12692 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:54:03,659 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:54:03,659 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:54:05,011 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:54:05,953 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:54:05,953 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2230 ms
+2020-08-30 01:54:06,185 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:54:08,723 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:56:36,989 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:56:37,042 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:56:37,042 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:56:37,042 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:56:37,042 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:56:37,042 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:56:37,111 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 7988 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:56:37,111 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:56:37,111 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:56:38,578 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:56:39,546 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:56:39,554 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2361 ms
+2020-08-30 01:56:39,769 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:56:42,657 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:58:13,751 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:58:13,812 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:58:13,812 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:58:13,812 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:58:13,812 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:58:13,828 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:58:13,916 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 9660 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:58:13,916 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:58:13,916 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:58:15,757 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:58:16,634 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:58:16,642 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2654 ms
+2020-08-30 01:58:16,858 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 01:58:19,422 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 01:58:34,248 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 01:58:34,305 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 01:58:34,320 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 01:58:34,320 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 01:58:34,320 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 01:58:34,320 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 01:58:34,432 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 14128 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 01:58:34,432 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 01:58:34,432 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 01:58:36,190 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 01:58:37,605 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 01:58:37,605 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 3094 ms
+2020-08-30 01:58:38,093 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 02:05:35,237 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 02:06:42,424 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 02:06:42,473 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 02:06:42,473 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 02:06:42,473 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 02:06:42,473 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 02:06:42,473 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 02:06:42,553 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 10620 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 02:06:42,553 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 02:06:42,553 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 02:06:44,069 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 02:06:44,925 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 02:06:44,925 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2300 ms
+2020-08-30 02:06:45,141 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 02:06:48,315 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 08:13:03,577 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 08:13:03,623 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 08:13:03,624 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 08:13:03,624 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 08:13:03,624 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 08:13:03,624 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 08:13:03,696 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 14368 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 08:13:03,697 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 08:13:03,699 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 08:13:05,244 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 08:13:06,034 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 08:13:06,035 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2268 ms
+2020-08-30 08:13:06,257 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 08:13:09,169 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 08:15:27,773 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 08:15:27,820 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 08:15:27,820 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 08:15:27,820 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 08:15:27,821 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 08:15:27,821 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 08:15:27,898 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 7760 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 08:15:27,898 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 08:15:27,900 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 08:15:29,393 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 08:15:30,668 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 08:15:30,668 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2698 ms
+2020-08-30 08:15:30,888 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 08:15:33,404 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field stockRepository in com.stock.service.StockService required a bean of type 'com.stock.dao.StockRepository' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.stock.dao.StockRepository' in your configuration.
+
+2020-08-30 08:18:40,861 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'configurationProperties' with highest search precedence
+2020-08-30 08:18:40,908 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletConfigInitParams' with lowest search precedence
+2020-08-30 08:18:40,909 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'servletContextInitParams' with lowest search precedence
+2020-08-30 08:18:40,909 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemProperties' with lowest search precedence
+2020-08-30 08:18:40,909 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'systemEnvironment' with lowest search precedence
+2020-08-30 08:18:40,909 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Initialized StandardServletEnvironment with PropertySources [StubPropertySource {name='servletConfigInitParams'}, StubPropertySource {name='servletContextInitParams'}, MapPropertySource {name='systemProperties'}, SystemEnvironmentPropertySource {name='systemEnvironment'}]
+2020-08-30 08:18:40,985 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 8784 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 08:18:40,986 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 08:18:40,989 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 08:18:42,707 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Removing PropertySource 'defaultProperties'
+2020-08-30 08:18:43,785 DEBUG org.springframework.web.context.ContextLoader [localhost-startStop-1] Published root WebApplicationContext as ServletContext attribute with name [org.springframework.web.context.WebApplicationContext.ROOT]
+2020-08-30 08:18:43,785 INFO org.springframework.web.context.ContextLoader [localhost-startStop-1] Root WebApplicationContext: initialization completed in 2735 ms
+2020-08-30 08:18:44,024 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Replacing PropertySource 'servletContextInitParams' with 'servletContextInitParams'
+2020-08-30 08:18:46,832 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter [main] Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1ddf84b8: startup date [Sun Aug 30 08:18:41 IST 2020]; root of context hierarchy
+2020-08-30 08:18:46,915 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Looking for request mappings in application context: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1ddf84b8: startup date [Sun Aug 30 08:18:41 IST 2020]; root of context hierarchy
+2020-08-30 08:18:46,929 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] 5 request handler methods found on class com.stock.controller.StockController: {public java.util.Optional com.stock.controller.StockController.searchStock(int)={[/stocks/{id}],methods=[GET]}, public java.lang.Iterable com.stock.controller.StockController.getAllStock()={[/stocks/allstock],methods=[GET]}, public void com.stock.controller.StockController.removeStock(com.stock.entity.Stock)={[/stocks/remove],methods=[DELETE]}, public void com.stock.controller.StockController.updateStock(com.stock.entity.Stock)={[/stocks/update],methods=[PUT]}, public void com.stock.controller.StockController.insertStock(com.stock.entity.Stock)={[/stocks/add],methods=[POST]}}
+2020-08-30 08:18:46,931 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Mapped "{[/stocks/{id}],methods=[GET]}" onto public java.util.Optional<com.stock.entity.Stock> com.stock.controller.StockController.searchStock(int)
+2020-08-30 08:18:46,933 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Mapped "{[/stocks/allstock],methods=[GET]}" onto public java.lang.Iterable<com.stock.entity.Stock> com.stock.controller.StockController.getAllStock()
+2020-08-30 08:18:46,933 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Mapped "{[/stocks/remove],methods=[DELETE]}" onto public void com.stock.controller.StockController.removeStock(com.stock.entity.Stock)
+2020-08-30 08:18:46,933 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Mapped "{[/stocks/update],methods=[PUT]}" onto public void com.stock.controller.StockController.updateStock(com.stock.entity.Stock)
+2020-08-30 08:18:46,933 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Mapped "{[/stocks/add],methods=[POST]}" onto public void com.stock.controller.StockController.insertStock(com.stock.entity.Stock)
+2020-08-30 08:18:46,939 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] 2 request handler methods found on class org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController: {public org.springframework.http.ResponseEntity org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)={[/error]}, public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)={[/error],produces=[text/html]}}
+2020-08-30 08:18:46,939 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2020-08-30 08:18:46,939 INFO org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [main] Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Looking for URL mappings in application context: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1ddf84b8: startup date [Sun Aug 30 08:18:41 IST 2020]; root of context hierarchy
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor': no URL paths identified
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor': no URL paths identified
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.annotation.internalRequiredAnnotationProcessor': no URL paths identified
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.annotation.internalCommonAnnotationProcessor': no URL paths identified
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.annotation.internalPersistenceAnnotationProcessor': no URL paths identified
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.event.internalEventListenerProcessor': no URL paths identified
+2020-08-30 08:18:46,971 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.event.internalEventListenerFactory': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'stockInventoryApplication': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'stockController': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'stockService': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.AutoConfigurationPackages': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.condition.BeanTypeRegistry': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'propertySourcesPlaceholderConfigurer': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$Jackson2ObjectMapperBuilderCustomizerConfiguration': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'standardJacksonObjectMapperBuilderCustomizer': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.jackson-org.springframework.boot.autoconfigure.jackson.JacksonProperties': no URL paths identified
+2020-08-30 08:18:46,972 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperBuilderConfiguration': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jacksonObjectMapperBuilder': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$ParameterNamesModuleConfiguration': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'parameterNamesModule': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration$JacksonObjectMapperConfiguration': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jacksonObjectMapper': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jackson.JacksonAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jsonComponentModule': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration$TomcatWebSocketConfiguration': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'websocketContainerCustomizer': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.websocket.servlet.WebSocketServletAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryConfiguration$EmbeddedTomcat': no URL paths identified
+2020-08-30 08:18:46,973 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'tomcatServletWebServerFactory': no URL paths identified
+2020-08-30 08:18:46,974 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.ServletWebServerFactoryAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,974 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'servletWebServerFactoryCustomizer': no URL paths identified
+2020-08-30 08:18:46,974 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'tomcatServletWebServerFactoryCustomizer': no URL paths identified
+2020-08-30 08:18:46,974 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'server-org.springframework.boot.autoconfigure.web.ServerProperties': no URL paths identified
+2020-08-30 08:18:46,974 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'webServerFactoryCustomizerBeanPostProcessor': no URL paths identified
+2020-08-30 08:18:46,974 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'errorPageRegistrarBeanPostProcessor': no URL paths identified
+2020-08-30 08:18:46,974 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletConfiguration': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'dispatcherServlet': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.mvc-org.springframework.boot.autoconfigure.web.servlet.WebMvcProperties': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration$DispatcherServletRegistrationConfiguration': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'dispatcherServletRegistration': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration$JacksonCodecConfiguration': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jacksonCodecCustomizer': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.http.codec.CodecsAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.validation.ValidationAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'defaultValidator': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'methodValidationPostProcessor': no URL paths identified
+2020-08-30 08:18:46,975 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.transaction.jta.JtaAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.jta-org.springframework.boot.autoconfigure.transaction.jta.JtaProperties': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceConfiguration$Hikari': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'dataSource': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration$Hikari': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceJmxConfiguration': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration$PooledDataSourceConfiguration': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration$HikariPoolDataSourceMetadataProviderConfiguration': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'hikariPoolDataSourceMetadataProvider': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.metadata.DataSourcePoolMetadataProvidersConfiguration': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializerInvoker': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceInitializationConfiguration': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'dataSourceInitializerPostProcessor': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties': no URL paths identified
+2020-08-30 08:18:46,976 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration$JdbcTemplateConfiguration': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jdbcTemplate': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration$NamedParameterJdbcTemplateConfiguration': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'namedParameterJdbcTemplate': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.JdbcTemplateAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.jdbc-org.springframework.boot.autoconfigure.jdbc.JdbcProperties': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$WhitelabelErrorViewConfiguration': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'error': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'beanNameViewResolver': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration$DefaultErrorViewResolverConfiguration': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'conventionErrorViewResolver': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.error.ErrorMvcAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'errorAttributes': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'basicErrorController': no URL paths identified
+2020-08-30 08:18:46,977 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'errorPageCustomizer': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'preserveErrorControllerTargetClassPostProcessor': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.resources-org.springframework.boot.autoconfigure.web.ResourceProperties': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$EnableWebMvcConfiguration': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'requestMappingHandlerAdapter': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'requestMappingHandlerMapping': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcConversionService': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcValidator': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcContentNegotiationManager': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcPathMatcher': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcUrlPathHelper': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'viewControllerHandlerMapping': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'beanNameHandlerMapping': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'resourceHandlerMapping': no URL paths identified
+2020-08-30 08:18:46,978 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcResourceUrlProvider': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'defaultServletHandlerMapping': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcUriComponentsContributor': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'httpRequestHandlerAdapter': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'simpleControllerHandlerAdapter': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'handlerExceptionResolver': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcViewResolver': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mvcHandlerMappingIntrospector': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter$FaviconConfiguration': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'faviconHandlerMapping': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'faviconRequestHandler': no URL paths identified
+2020-08-30 08:18:46,979 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration$WebMvcAutoConfigurationAdapter': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'defaultViewResolver': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'viewResolver': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'welcomePageHandlerMapping': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'requestContextFilter': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'hiddenHttpMethodFilter': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'httpPutFormContentFilter': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mbeanExporter': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'objectNamingStrategy': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mbeanServer': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.admin.SpringApplicationAdminJmxAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'springApplicationAdminRegistrar': no URL paths identified
+2020-08-30 08:18:46,980 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.aop.AopAutoConfiguration$CglibAutoProxyConfiguration': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.aop.config.internalAutoProxyCreator': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.aop.AopAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'openEntityManagerInViewInterceptor': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'transactionManager': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jpaVendorAdapter': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'entityManagerFactoryBuilder': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'entityManagerFactory': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.jpa-org.springframework.boot.autoconfigure.orm.jpa.JpaProperties': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'dataSourceInitializedPublisher': no URL paths identified
+2020-08-30 08:18:46,981 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.dao.PersistenceExceptionTranslationAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'persistenceExceptionTranslationPostProcessor': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.data.jpa.JpaRepositoriesAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'emBeanDefinitionRegistrarPostProcessor': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jpaMappingContext': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jpaContext': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'stockRepository': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration$StringHttpMessageConverterConfiguration': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'stringHttpMessageConverter': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.http.encoding-org.springframework.boot.autoconfigure.http.HttpEncodingProperties': no URL paths identified
+2020-08-30 08:18:46,982 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration$MappingJackson2HttpMessageConverterConfiguration': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'mappingJackson2HttpMessageConverter': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.http.JacksonHttpMessageConvertersConfiguration': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.http.HttpMessageConvertersAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'messageConverters': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.data.web.config.ProjectingArgumentResolverRegistrar': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'projectingArgumentResolverBeanPostProcessor': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.data.web.config.SpringDataWebConfiguration': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'pageableResolver': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'sortResolver': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.data.web.config.SpringDataJacksonConfiguration': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'jacksonGeoModule': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.data.web.SpringDataWebAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'pageableCustomizer': no URL paths identified
+2020-08-30 08:18:46,983 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'sortCustomizer': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.data.web-org.springframework.boot.autoconfigure.data.web.SpringDataWebProperties': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration$DataSourceTransactionManagerConfiguration': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.jdbc.DataSourceTransactionManagerAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.transaction.config.internalTransactionAdvisor': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'transactionAttributeSource': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'transactionInterceptor': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.transaction.config.internalTransactionalEventListenerFactory': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration$EnableTransactionManagementConfiguration$CglibAutoProxyConfiguration': no URL paths identified
+2020-08-30 08:18:46,984 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration$EnableTransactionManagementConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration$TransactionTemplateConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'transactionTemplate': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.transaction.TransactionAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'platformTransactionManagerCustomizers': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.transaction-org.springframework.boot.autoconfigure.transaction.TransactionProperties': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.security-org.springframework.boot.autoconfigure.security.SecurityProperties': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.client.RestTemplateAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'restTemplateBuilder': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration$TomcatWebServerFactoryCustomizerConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'tomcatWebServerFactoryCustomizer': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.HttpEncodingAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'characterEncodingFilter': no URL paths identified
+2020-08-30 08:18:46,985 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'localeCharsetMappingsCustomizer': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.autoconfigure.web.servlet.MultipartAutoConfiguration': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'multipartConfigElement': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'multipartResolver': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'spring.servlet.multipart-org.springframework.boot.autoconfigure.web.servlet.MultipartProperties': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.orm.jpa.SharedEntityManagerCreator#0': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'autoConfigurationReport': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.boot.context.ContextIdApplicationContextInitializer$ContextId': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'springApplicationArguments': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'springBootBanner': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'springBootLoggingSystem': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'environment': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'systemProperties': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'systemEnvironment': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'org.springframework.context.annotation.ConfigurationClassPostProcessor.importRegistry': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'messageSource': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'applicationEventMulticaster': no URL paths identified
+2020-08-30 08:18:46,986 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'servletContext': no URL paths identified
+2020-08-30 08:18:46,987 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'contextParameters': no URL paths identified
+2020-08-30 08:18:46,987 DEBUG org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping [main] Rejected bean name 'contextAttributes': no URL paths identified
+2020-08-30 08:18:47,023 INFO org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-08-30 08:18:47,023 INFO org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-08-30 08:18:47,040 DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver [main] Looking for exception mappings: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1ddf84b8: startup date [Sun Aug 30 08:18:41 IST 2020]; root of context hierarchy
+2020-08-30 08:18:47,080 INFO org.springframework.web.servlet.handler.SimpleUrlHandlerMapping [main] Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-08-30 08:18:47,437 DEBUG org.springframework.web.servlet.resource.ResourceUrlProvider [main] Looking for resource handler mappings
+2020-08-30 08:18:47,438 DEBUG org.springframework.web.servlet.resource.ResourceUrlProvider [main] Found resource handler mapping: URL pattern="/**/favicon.ico", locations=[class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/], class path resource []], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@62b09715]
+2020-08-30 08:18:47,438 DEBUG org.springframework.web.servlet.resource.ResourceUrlProvider [main] Found resource handler mapping: URL pattern="/webjars/**", locations=[class path resource [META-INF/resources/webjars/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@3e214105]
+2020-08-30 08:18:47,438 DEBUG org.springframework.web.servlet.resource.ResourceUrlProvider [main] Found resource handler mapping: URL pattern="/**", locations=[class path resource [META-INF/resources/], class path resource [resources/], class path resource [static/], class path resource [public/], ServletContext resource [/]], resolvers=[org.springframework.web.servlet.resource.PathResourceResolver@da4cf09]
+2020-08-30 08:18:47,485 DEBUG org.springframework.web.context.support.StandardServletEnvironment [main] Adding PropertySource 'server.ports' with highest search precedence
+2020-08-30 08:18:47,487 INFO com.stock.StockInventoryApplication [main] Started StockInventoryApplication in 6.951 seconds (JVM running for 8.196)
+2020-08-30 08:19:42,299 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Initializing servlet 'dispatcherServlet'
+2020-08-30 08:19:42,300 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] FrameworkServlet 'dispatcherServlet': initialization started
+2020-08-30 08:19:42,300 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Using MultipartResolver [org.springframework.web.multipart.support.StandardServletMultipartResolver@3bc69ce9]
+2020-08-30 08:19:42,308 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Unable to locate LocaleResolver with name 'localeResolver': using default [org.springframework.web.servlet.i18n.AcceptHeaderLocaleResolver@2a5d9f22]
+2020-08-30 08:19:42,314 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Unable to locate ThemeResolver with name 'themeResolver': using default [org.springframework.web.servlet.theme.FixedThemeResolver@451eacad]
+2020-08-30 08:19:42,324 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Unable to locate RequestToViewNameTranslator with name 'viewNameTranslator': using default [org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@2543b62f]
+2020-08-30 08:19:42,333 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Unable to locate FlashMapManager with name 'flashMapManager': using default [org.springframework.web.servlet.support.SessionFlashMapManager@10289e9b]
+2020-08-30 08:19:42,334 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Published WebApplicationContext of servlet 'dispatcherServlet' as ServletContext attribute with name [org.springframework.web.servlet.FrameworkServlet.CONTEXT.dispatcherServlet]
+2020-08-30 08:19:42,334 INFO org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] FrameworkServlet 'dispatcherServlet': initialization completed in 34 ms
+2020-08-30 08:19:42,334 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Servlet 'dispatcherServlet' configured successfully
+2020-08-30 08:19:42,346 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] DispatcherServlet with name 'dispatcherServlet' processing GET request for [/stockinventory/stocks/1010]
+2020-08-30 08:19:42,350 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [http-nio-8082-exec-1] Looking up handler method for path /stocks/1010
+2020-08-30 08:19:42,355 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [http-nio-8082-exec-1] Returning handler method [public java.util.Optional<com.stock.entity.Stock> com.stock.controller.StockController.searchStock(int)]
+2020-08-30 08:19:42,356 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Last-Modified value for [/stockinventory/stocks/1010] is: -1
+2020-08-30 08:19:42,384 INFO com.stock.controller.StockController [http-nio-8082-exec-1] Stock request ID 1010
+2020-08-30 08:19:42,500 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor [http-nio-8082-exec-1] Written [Optional.empty] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@42d6c12d]
+2020-08-30 08:19:42,501 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Null ModelAndView returned to DispatcherServlet with name 'dispatcherServlet': assuming HandlerAdapter completed request handling
+2020-08-30 08:19:42,501 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-1] Successfully completed request
+2020-08-30 08:20:57,782 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-3] DispatcherServlet with name 'dispatcherServlet' processing GET request for [/stockinventory/stocks/1010]
+2020-08-30 08:20:57,782 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [http-nio-8082-exec-3] Looking up handler method for path /stocks/1010
+2020-08-30 08:20:57,783 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping [http-nio-8082-exec-3] Returning handler method [public java.util.Optional<com.stock.entity.Stock> com.stock.controller.StockController.searchStock(int)]
+2020-08-30 08:20:57,783 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-3] Last-Modified value for [/stockinventory/stocks/1010] is: -1
+2020-08-30 08:20:57,784 INFO com.stock.controller.StockController [http-nio-8082-exec-3] Stock request ID 1010
+2020-08-30 08:20:57,790 DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestResponseBodyMethodProcessor [http-nio-8082-exec-3] Written [Optional.empty] as "application/json" using [org.springframework.http.converter.json.MappingJackson2HttpMessageConverter@42d6c12d]
+2020-08-30 08:20:57,790 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-3] Null ModelAndView returned to DispatcherServlet with name 'dispatcherServlet': assuming HandlerAdapter completed request handling
+2020-08-30 08:20:57,791 DEBUG org.springframework.web.servlet.DispatcherServlet [http-nio-8082-exec-3] Successfully completed request
+2020-08-30 08:21:56,769 INFO com.stock.StockInventoryApplication [main] Starting StockInventoryApplication on DESKTOP-TE1ICQJ with PID 14860 (H:\EWORKSPACE\StockInventory\target\classes started by CS in H:\EWORKSPACE\StockInventory)
+2020-08-30 08:21:56,774 DEBUG com.stock.StockInventoryApplication [main] Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2020-08-30 08:21:56,776 INFO com.stock.StockInventoryApplication [main] No active profile set, falling back to default profiles: default
+2020-08-30 08:22:03,786 INFO com.stock.StockInventoryApplication [main] Started StockInventoryApplication in 7.441 seconds (JVM running for 8.588)
+2020-08-30 08:22:35,319 INFO com.stock.controller.StockController [http-nio-8082-exec-1] Stock request ID 1010
